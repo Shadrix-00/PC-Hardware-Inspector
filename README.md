@@ -19,10 +19,11 @@ No personal data is collected. IP addresses, MAC addresses, and serial numbers a
 
 ## How to use it
 
-1. Go to the Releases page and download `PC-Hardware-Inspector.exe`.
-2. Double-click it.
-3. Wait a few seconds. The report appears in the window.
-4. The report is already copied to your clipboard. Paste it wherever you need it with Ctrl+V.
+1. Go to the Releases page and download 'PC-Hardware-Inspector.exe' and the source code.
+2. Export it
+3. Double click the .exe file.
+4. Wait a few seconds. The report appears in the window.
+5. The report is already copied to your clipboard. Paste it wherever you need it with Ctrl+V.
 
 That is the whole program. It is a single file and nothing needs to be installed.
 
